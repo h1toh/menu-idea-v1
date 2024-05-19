@@ -139,6 +139,9 @@ section.diferenciais{
     body{
         overflow-x: hidden;
     }
+    main h2{
+        font-size: 60px;
+    }
     .nav-list{
         position: absolute;
         top: 8vh;
